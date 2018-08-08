@@ -233,7 +233,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4967362574592634, guid: 3387c1fd07390724ea4bfbb4a506518f, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -10
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 4967362574592634, guid: 3387c1fd07390724ea4bfbb4a506518f, type: 2}
       propertyPath: m_LocalRotation.x
@@ -273,7 +273,7 @@ Prefab:
     - target: {fileID: 114885168523194448, guid: 3387c1fd07390724ea4bfbb4a506518f,
         type: 2}
       propertyPath: gameSpeed
-      value: 2.39
+      value: 0.65
       objectReference: {fileID: 0}
     - target: {fileID: 114885168523194448, guid: 3387c1fd07390724ea4bfbb4a506518f,
         type: 2}
@@ -488,7 +488,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4040414388681344, guid: a18c55cac78667248aa2759c50d6e884, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -10
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 4040414388681344, guid: a18c55cac78667248aa2759c50d6e884, type: 2}
       propertyPath: m_LocalRotation.x
