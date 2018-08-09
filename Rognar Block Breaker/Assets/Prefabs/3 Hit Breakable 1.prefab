@@ -35,8 +35,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1529495246258260}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.4900002, y: 9.4, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -7.6000004, y: 0.278615, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -81,7 +81,7 @@ MonoBehaviour:
   breakSound: {fileID: 8300000, guid: 38c14e2f997b1d046bc6f0b4308878ba, type: 3}
   blockSparklesVFX: {fileID: 100000, guid: 7d846c02296ef4dc4abff04ce3e5262c, type: 2}
   hitSprites:
-  - {fileID: 21300000, guid: 1e11965203c88f64f92cbea47674b250, type: 3}
+  - {fileID: 21300000, guid: ed13fac6670442645875d0cda46f32fb, type: 3}
   - {fileID: 21300000, guid: 1e11965203c88f64f92cbea47674b250, type: 3}
   timesHit: 0
 --- !u!212 &212851034979799248
