@@ -501,7 +501,12 @@ Prefab:
     - target: {fileID: 114885168523194448, guid: 3387c1fd07390724ea4bfbb4a506518f,
         type: 2}
       propertyPath: isAutoPlayEnabled
-      value: 1
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114885168523194448, guid: 3387c1fd07390724ea4bfbb4a506518f,
+        type: 2}
+      propertyPath: pointsPerBlockDestroyed
+      value: 73
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3387c1fd07390724ea4bfbb4a506518f, type: 2}
